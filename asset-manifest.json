@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-blocbuilder/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/react-blocbuilder/static/js/main.64a9e931.chunk.js",
+    "main.js.map": "/react-blocbuilder/static/js/main.64a9e931.chunk.js.map",
+    "runtime-main.js": "/react-blocbuilder/static/js/runtime-main.0d20312f.js",
+    "runtime-main.js.map": "/react-blocbuilder/static/js/runtime-main.0d20312f.js.map",
+    "static/js/2.f3270f74.chunk.js": "/react-blocbuilder/static/js/2.f3270f74.chunk.js",
+    "static/js/2.f3270f74.chunk.js.map": "/react-blocbuilder/static/js/2.f3270f74.chunk.js.map",
+    "index.html": "/react-blocbuilder/index.html",
+    "precache-manifest.bd3953464d24660f0ef94ae23a2bb550.js": "/react-blocbuilder/precache-manifest.bd3953464d24660f0ef94ae23a2bb550.js",
+    "service-worker.js": "/react-blocbuilder/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/react-blocbuilder/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.f3270f74.chunk.js.LICENSE.txt": "/react-blocbuilder/static/js/2.f3270f74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d20312f.js",
+    "static/js/2.f3270f74.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.64a9e931.chunk.js"
+  ]
+}
