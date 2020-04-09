@@ -4,7 +4,7 @@
   "description": "BlocBuilder is a component which is like Flutter StreamBuilder. This component can help you to use BLoC pattern in react.",
   "author": "JimmyTai",
   "license": "MIT",
-  "repository": "JimmyTai/react-blocbuilder",
+  "repository": "https://github.com/JimmyTai/react-blocbuilder",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
